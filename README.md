@@ -149,7 +149,6 @@ discord-music-bot/
 ----
 English
 ---
-English
 # Discord Moderation Bot
 
 A Discord bot for server moderation: ban, kick, mute (timeout), warn, check warnings, and clear warnings. Built with `discord.js` v14.

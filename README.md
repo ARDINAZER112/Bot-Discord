@@ -1,5 +1,5 @@
-# Language,
-## [Indonesian](#Indonesian),
+# Language
+## [Indonesian](#Indonesian)
 ## [English](#English)
 ---
 Indonesian

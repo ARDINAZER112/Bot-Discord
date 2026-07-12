@@ -1,0 +1,21 @@
+{
+  "name": "discord-music-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.19.2",
+    "@distube/youtube": "^1.0.4",
+    "@distube/ytdl": "^2.0.6",
+    "discord.js": "^14.26.5",
+    "distube": "^5.2.3",
+    "dotenv": "^17.4.2",
+    "ffmpeg-static": "^5.3.0"
+  }
+}

@@ -1,7 +1,8 @@
 # Language
 ## [Indonesian](#Indonesian) | [English](#English)
----
+----
 Indonesian
+---
 # Discord Moderation Bot
 
 Bot Discord untuk moderasi server: ban, kick, mute (timeout), warn, cek peringatan, dan hapus peringatan. Dibuat dengan `discord.js` v14.
@@ -77,8 +78,9 @@ discord-mod-bot/
 - Data warning disimpan di file JSON lokal — cukup untuk skala kecil-menengah. Kalau butuh lebih robust (banyak server, banyak data), pertimbangkan migrasi ke SQLite atau database lain.
 - Bot butuh role dengan posisi **lebih tinggi** dari role target di server (Server Settings → Roles) supaya bisa ban/kick/mute.
 - Untuk update command setelah edit file di `commands/`, jalankan ulang `npm run deploy`.
----
+----
 English
+---
 # Discord Moderation Bot
 
 A Discord bot for server moderation: ban, kick, mute (timeout), warn, check warnings, and clear warnings. Built with `discord.js` v14.

@@ -1,6 +1,5 @@
 # Language
-## [Indonesian](#Indonesian)
-## [English](#English)
+## [Indonesian](#Indonesian) | [English](#English)
 ---
 Indonesian
 # Discord Moderation Bot

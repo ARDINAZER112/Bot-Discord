@@ -1,7 +1,8 @@
 # Language
 ## [Indonesian](#Indonesian) | [English](#English)
----
+----
 Indonesian
+---
 # Discord Moderation Bot
 
 Bot Discord untuk moderasi server: ban, kick, mute (timeout), warn, cek peringatan, dan hapus peringatan. Dibuat dengan `discord.js` v14.
